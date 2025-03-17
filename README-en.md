@@ -1,8 +1,6 @@
 # Aegisub Script Collection
 
-*Read this in: [Български](README-bg.md)*
-
-To have your scripts automatically loaded when Aegisub starts up, you need to place them in specific directories depending on your operating system.
+*Read this in: [Български](README.md)*
 
 ## Script Descriptions
 
@@ -26,7 +24,9 @@ The QC script provides several automated subtitle quality control features:
 
 These tools help maintain consistent subtitle quality and conform to professional subtitling standards.
 
-## Script Locations by OS
+## Autoloading the Scripts
+
+To have your scripts automatically loaded when Aegisub starts up, you need to place them in specific directories depending on your operating system.
 
 ### Windows
 
